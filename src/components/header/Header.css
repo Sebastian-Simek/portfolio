@@ -3,7 +3,8 @@
   flex-direction: row;
   justify-content: center;
   justify-content: space-around;
-  padding-left: 10vw;
-  padding-right: 10vw;
-  border: 1px solid brown;
+  position: sticky;
+  background-color: whitesmoke;
+  top: 0;
+  z-index: 2;
 }

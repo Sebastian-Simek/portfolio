@@ -1,0 +1,8 @@
+.home {
+  min-height: 65vh;
+  border: 1px solid brown;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}

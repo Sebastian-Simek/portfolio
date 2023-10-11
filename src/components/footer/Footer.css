@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-bottom: 5vh;
+  background-color: whitesmoke;
+}
